@@ -42,3 +42,11 @@
 // };
 
 // students["name"]= "Tanish Mathur";
+
+const prod = {
+    prod_name : "Parker Jotter Standard CT Ball Pen",
+    colour : "Black",
+    ratings : 4.5,
+    price : 270,
+    discount : "5% off"
+} 
