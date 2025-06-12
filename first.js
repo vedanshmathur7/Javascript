@@ -33,4 +33,12 @@
 // y = Symbol("vedansh"); // symbol
 // x = BigInt (125); // 125n //BigInt
 
+// const students = {
+//     fullname : "vedansh mathur",
+//     age : 18,
+//     address : "K-61 kishan nagar , jaipur",
+//     cgpa : 8.6,
+//     ispass : true
+// };
 
+// students["name"]= "Tanish Mathur";
