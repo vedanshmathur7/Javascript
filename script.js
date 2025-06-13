@@ -55,20 +55,20 @@ let b = 100;
 //     console.log(`Okk bhai aapka swaagat hai! aap ${age} saal k ho !`);
 // }
 
-let day = prompt ("Enter the day : ");
-switch (day) {
-    case "Monday":
-        console.log(`Kya baat h aag toh ${day} hai ! `);
-        break;
-    case "Tuesday":
-        console.log(`Kya baat h aag toh ${day} hai ! `);
-        break;
-    case "Wednesday":
-        console.log(`Kya baat h aag toh ${day} hai ! `);
-        break;
-    case "Thursday":
-        console.log(`Kya baat h aag toh ${day} hai ! `);
-        break;
-    default:
-        console.log("umm hmm !");
-}
+// let day = prompt ("Enter the day : ");
+// switch (day) {
+//     case "Monday":
+//         console.log(`Kya baat h aag toh ${day} hai ! `);
+//         break;
+//     case "Tuesday":
+//         console.log(`Kya baat h aag toh ${day} hai ! `);
+//         break;
+//     case "Wednesday":
+//         console.log(`Kya baat h aag toh ${day} hai ! `);
+//         break;
+//     case "Thursday":
+//         console.log(`Kya baat h aag toh ${day} hai ! `);
+//         break;
+//     default:
+//         console.log("umm hmm !");
+// }
