@@ -33,5 +33,24 @@ let b = 100;
 // const square = (x) => x * x;
 // console.log(square(77));
 
-const hello = () => "Hello bhaiji";
-console.log(hello())
+// const hello = () => "Hello bhaiji";
+// console.log(hello())
+
+// A function that returns the first letter of a string
+// const firstletter = (strg) => console.log("The first three letter are : ", strg.slice(0,3));
+
+// firstletter("Rajesh");
+
+// let name = prompt("Enter your name : ")
+// console.log("Your name is : ", name);
+
+let age = parseInt(prompt("Enter your age : "));
+if (age == 18){
+    console.log('Kya baat hai bhai, bda ho gya ! aap ${age} saal k ho');
+}
+else if (age < 18){
+    console.log('Bhaiji, aap ${age} saal k ho, aukaat m rho !');
+}
+else {
+    console.log('Okk bhai aapka swaagat hai! aap ${age} saal k ho !');
+}
