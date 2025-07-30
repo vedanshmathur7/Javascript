@@ -1,23 +1,27 @@
-// console.log("Vedansh mathur");
-// console.log("vedanhs is prio");
-// alert ("champak chacha ");
+// ctrl + L -> to clear the cosole tab
 
-// name = "Vedansh Mathur";
-// console.log(name);
-// x  = null;
-// y = undefined;
-// isfollow = false;
-// console.log(x);
-// console.log(y);
-// console.log(isfollow);
+// JS is a dynamically typed language 
+
+console.log("Vedansh mathur");
+console.log("vedanhs is prio");
+alert ("champak chacha ");
+
+name = "Vedansh Mathur";
+console.log(name);
+x  = null;
+y = undefined;
+isfollow = false;
+console.log(x);
+console.log(y);
+console.log(isfollow);
 
 
-// var age = 25;
+var age = 25;
 // var age = 25;
 // var age = 25; // can be updated and re-declared
 
-// let age = 25;
-// age = 67; // can be updated but not re-declare
+let age = 25;
+age = 67; // can be updated but not re-declare
 
 // const age = 56;
 // const age = 87;
@@ -41,7 +45,7 @@
 //     ispass : true
 // };
 
-// students["name"]= "Tanish Mathur";
+students["name"]= "Tanish Mathur";
 
 const prod = {
     prod_name : "Parker Jotter Standard CT Ball Pen",
