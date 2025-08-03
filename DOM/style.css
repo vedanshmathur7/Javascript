@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    /* background-color: azure; */
+}
+
+body{
+    background-color: aquamarine;
+}
+
+button{
+    color: black;
+}
+
+.rajesh{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+}
