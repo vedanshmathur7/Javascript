@@ -1,0 +1,13 @@
+div{
+    color:navajowhite ;
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: whitesmoke;
+    border: 1px solid black;
+}
+
+#op{
+    background-color: red;
+    color: whitesmoke;
+}
