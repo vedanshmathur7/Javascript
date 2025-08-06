@@ -50,3 +50,16 @@ lexus.setbrand("lexus");
 
 
 // whenever the object is created, "constructor" is invoked automatically
+
+
+// -------------------inheritance-------------------
+
+class Parent {
+    hello (){
+        console.log("hello");
+    }
+}
+
+class Child extends Parent {}
+
+let vednash = new Child;
